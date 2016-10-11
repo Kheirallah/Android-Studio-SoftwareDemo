@@ -22,8 +22,7 @@ public class MainActivity extends AppCompatActivity {
             }
 
         });
-
-        B.
+        
         }
 
     private void goToSecondActivity() {
